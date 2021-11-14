@@ -1,0 +1,381 @@
+{
+    "root": {
+        "item": [
+            {
+                "@type": "dict",
+                "Action": {
+                    "#text": "Select all content.",
+                    "@type": "str"
+                },
+                "Keyboard_shortcut": {
+                    "#text": "Ctrl + A",
+                    "@type": "str"
+                },
+                "properties": {
+                    "#text": "Essential",
+                    "@type": "str"
+                }
+            },
+            {
+                "@type": "dict",
+                "Action": {
+                    "#text": "Copy selected items to clipboard.",
+                    "@type": "str"
+                },
+                "Keyboard_shortcut": {
+                    "#text": "Ctrl + C (or Ctrl + Insert)",
+                    "@type": "str"
+                },
+                "properties": {
+                    "#text": "Essential",
+                    "@type": "str"
+                }
+            },
+            {
+                "@type": "dict",
+                "Action": {
+                    "#text": "Cut selected items to clipboard.",
+                    "@type": "str"
+                },
+                "Keyboard_shortcut": {
+                    "#text": "Ctrl + X",
+                    "@type": "str"
+                },
+                "properties": {
+                    "#text": "Essential",
+                    "@type": "str"
+                }
+            },
+            {
+                "@type": "dict",
+                "Action": {
+                    "#text": "Paste content from clipboard.",
+                    "@type": "str"
+                },
+                "Keyboard_shortcut": {
+                    "#text": "Ctrl + V (or Shift + Insert)",
+                    "@type": "str"
+                },
+                "properties": {
+                    "#text": "Essential",
+                    "@type": "str"
+                }
+            },
+            {
+                "@type": "dict",
+                "Action": {
+                    "#text": "Undo an action, including undelete files (limited).",
+                    "@type": "str"
+                },
+                "Keyboard_shortcut": {
+                    "#text": "Ctrl + Z",
+                    "@type": "str"
+                },
+                "properties": {
+                    "#text": "Essential",
+                    "@type": "str"
+                }
+            },
+            {
+                "@type": "dict",
+                "Action": {
+                    "#text": "Redo an action.",
+                    "@type": "str"
+                },
+                "Keyboard_shortcut": {
+                    "#text": "Ctrl + Y",
+                    "@type": "str"
+                },
+                "properties": {
+                    "#text": "Essential",
+                    "@type": "str"
+                }
+            },
+            {
+                "@type": "dict",
+                "Action": {
+                    "#text": "Create new folder on desktop or File Explorer.",
+                    "@type": "str"
+                },
+                "Keyboard_shortcut": {
+                    "#text": "Ctrl + Shift + N",
+                    "@type": "str"
+                },
+                "properties": {
+                    "#text": "Essential",
+                    "@type": "str"
+                }
+            },
+            {
+                "@type": "dict",
+                "Action": {
+                    "#text": "Close active window. (If no active window is present, then a shutdown box appears.)",
+                    "@type": "str"
+                },
+                "Keyboard_shortcut": {
+                    "#text": "Alt + F4",
+                    "@type": "str"
+                },
+                "properties": {
+                    "#text": "Essential",
+                    "@type": "str"
+                }
+            },
+            {
+                "@type": "dict",
+                "Action": {
+                    "#text": "Delete selected item to the Recycle Bin.",
+                    "@type": "str"
+                },
+                "Keyboard_shortcut": {
+                    "#text": "Ctrl + D (Del)",
+                    "@type": "str"
+                },
+                "properties": {
+                    "#text": "Essential",
+                    "@type": "str"
+                }
+            },
+            {
+                "@type": "dict",
+                "Action": {
+                    "#text": "Delete the selected item permanently, skipping Recycle Bin.",
+                    "@type": "str"
+                },
+                "Keyboard_shortcut": {
+                    "#text": "Shift + Delete",
+                    "@type": "str"
+                },
+                "properties": {
+                    "#text": "Essential",
+                    "@type": "str"
+                }
+            },
+            {
+                "@type": "dict",
+                "Action": {
+                    "#text": "Rename selected item.",
+                    "@type": "str"
+                },
+                "Keyboard_shortcut": {
+                    "#text": "F2",
+                    "@type": "str"
+                },
+                "properties": {
+                    "#text": "Essential",
+                    "@type": "str"
+                }
+            },
+            {
+                "@type": "dict",
+                "Action": {
+                    "#text": "Close current task.",
+                    "@type": "str"
+                },
+                "Keyboard_shortcut": {
+                    "#text": "ESC",
+                    "@type": "str"
+                },
+                "properties": {
+                    "#text": "Essential",
+                    "@type": "str"
+                }
+            },
+            {
+                "@type": "dict",
+                "Action": {
+                    "#text": "Switch between open apps.",
+                    "@type": "str"
+                },
+                "Keyboard_shortcut": {
+                    "#text": "Alt + Tab",
+                    "@type": "str"
+                },
+                "properties": {
+                    "#text": "Essential",
+                    "@type": "str"
+                }
+            },
+            {
+                "@type": "dict",
+                "Action": {
+                    "#text": "Take a screenshot and stores it in the clipboard.",
+                    "@type": "str"
+                },
+                "Keyboard_shortcut": {
+                    "#text": "PrtScn",
+                    "@type": "str"
+                },
+                "properties": {
+                    "#text": "Essential",
+                    "@type": "str"
+                }
+            },
+            {
+                "@type": "dict",
+                "Action": {
+                    "#text": "Open Settings app.",
+                    "@type": "str"
+                },
+                "Keyboard_shortcut": {
+                    "#text": "Windows key + I",
+                    "@type": "str"
+                },
+                "properties": {
+                    "#text": "Essential",
+                    "@type": "str"
+                }
+            },
+            {
+                "@type": "dict",
+                "Action": {
+                    "#text": "Open File Explorer.",
+                    "@type": "str"
+                },
+                "Keyboard_shortcut": {
+                    "#text": "Windows key + E",
+                    "@type": "str"
+                },
+                "properties": {
+                    "#text": "Essential",
+                    "@type": "str"
+                }
+            },
+            {
+                "@type": "dict",
+                "Action": {
+                    "#text": "Open Action center.",
+                    "@type": "str"
+                },
+                "Keyboard_shortcut": {
+                    "#text": "Windows key + A",
+                    "@type": "str"
+                },
+                "properties": {
+                    "#text": "Essential",
+                    "@type": "str"
+                }
+            },
+            {
+                "@type": "dict",
+                "Action": {
+                    "#text": "Display and hide the desktop.",
+                    "@type": "str"
+                },
+                "Keyboard_shortcut": {
+                    "#text": "Windows key + D",
+                    "@type": "str"
+                },
+                "properties": {
+                    "#text": "Essential",
+                    "@type": "str"
+                }
+            },
+            {
+                "@type": "dict",
+                "Action": {
+                    "#text": "Lock device.",
+                    "@type": "str"
+                },
+                "Keyboard_shortcut": {
+                    "#text": "Windows key + L",
+                    "@type": "str"
+                },
+                "properties": {
+                    "#text": "Essential",
+                    "@type": "str"
+                }
+            },
+            {
+                "@type": "dict",
+                "Action": {
+                    "#text": "Open Clipboard bin.",
+                    "@type": "str"
+                },
+                "Keyboard_shortcut": {
+                    "#text": "Windows key + V",
+                    "@type": "str"
+                },
+                "properties": {
+                    "#text": "Essential",
+                    "@type": "str"
+                }
+            },
+            {
+                "@type": "dict",
+                "Action": {
+                    "#text": "Open emoji panel.",
+                    "@type": "str"
+                },
+                "Keyboard_shortcut": {
+                    "#text": "Windows key + Period (.) or semicolon (;)",
+                    "@type": "str"
+                },
+                "properties": {
+                    "#text": "Essential",
+                    "@type": "str"
+                }
+            },
+            {
+                "@type": "dict",
+                "Action": {
+                    "#text": "Capture full screenshot in the \"Screenshots\" folder.",
+                    "@type": "str"
+                },
+                "Keyboard_shortcut": {
+                    "#text": "Windows key + PrtScn",
+                    "@type": "str"
+                },
+                "properties": {
+                    "#text": "Essential",
+                    "@type": "str"
+                }
+            },
+            {
+                "@type": "dict",
+                "Action": {
+                    "#text": "Capture part of the screen with Snip & Sketch.",
+                    "@type": "str"
+                },
+                "Keyboard_shortcut": {
+                    "#text": "Windows key + Shift + S",
+                    "@type": "str"
+                },
+                "properties": {
+                    "#text": "Essential",
+                    "@type": "str"
+                }
+            },
+            {
+                "@type": "dict",
+                "Action": {
+                    "#text": "Snap app or window left.",
+                    "@type": "str"
+                },
+                "Keyboard_shortcut": {
+                    "#text": "Windows key + Left arrow key",
+                    "@type": "str"
+                },
+                "properties": {
+                    "#text": "Essential",
+                    "@type": "str"
+                }
+            },
+            {
+                "@type": "dict",
+                "Action": {
+                    "#text": "Snap app or window right.",
+                    "@type": "str"
+                },
+                "Keyboard_shortcut": {
+                    "#text": "Windows key + Right arrow key",
+                    "@type": "str"
+                },
+                "properties": {
+                    "#text": "Essential",
+                    "@type": "str"
+                }
+            }
+        ]
+    }
+}

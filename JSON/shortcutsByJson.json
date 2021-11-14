@@ -1,0 +1,127 @@
+[
+    {
+        "Action": "Select all content.",
+        "Keyboard shortcut": "Ctrl + A",
+        "properties": "Essential"
+    },
+    {
+        "Action": "Copy selected items to clipboard.",
+        "Keyboard shortcut": "Ctrl + C (or Ctrl + Insert)",
+        "properties": "Essential"
+    },
+    {
+        "Action": "Cut selected items to clipboard.",
+        "Keyboard shortcut": "Ctrl + X",
+        "properties": "Essential"
+    },
+    {
+        "Action": "Paste content from clipboard.",
+        "Keyboard shortcut": "Ctrl + V (or Shift + Insert)",
+        "properties": "Essential"
+    },
+    {
+        "Action": "Undo an action, including undelete files (limited).",
+        "Keyboard shortcut": "Ctrl + Z",
+        "properties": "Essential"
+    },
+    {
+        "Action": "Redo an action.",
+        "Keyboard shortcut": "Ctrl + Y",
+        "properties": "Essential"
+    },
+    {
+        "Action": "Create new folder on desktop or File Explorer.",
+        "Keyboard shortcut": "Ctrl + Shift + N",
+        "properties": "Essential"
+    },
+    {
+        "Action": "Close active window. (If no active window is present, then a shutdown box appears.)",
+        "Keyboard shortcut": "Alt + F4",
+        "properties": "Essential"
+    },
+    {
+        "Action": "Delete selected item to the Recycle Bin.",
+        "Keyboard shortcut": "Ctrl + D (Del)",
+        "properties": "Essential"
+    },
+    {
+        "Action": "Delete the selected item permanently, skipping Recycle Bin.",
+        "Keyboard shortcut": "Shift + Delete",
+        "properties": "Essential"
+    },
+    {
+        "Action": "Rename selected item.",
+        "Keyboard shortcut": "F2",
+        "properties": "Essential"
+    },
+    {
+        "Action": "Close current task.",
+        "Keyboard shortcut": "ESC",
+        "properties": "Essential"
+    },
+    {
+        "Action": "Switch between open apps.",
+        "Keyboard shortcut": "Alt + Tab",
+        "properties": "Essential"
+    },
+    {
+        "Action": "Take a screenshot and stores it in the clipboard.",
+        "Keyboard shortcut": "PrtScn",
+        "properties": "Essential"
+    },
+    {
+        "Action": "Open Settings app.",
+        "Keyboard shortcut": "Windows key + I",
+        "properties": "Essential"
+    },
+    {
+        "Action": "Open File Explorer.",
+        "Keyboard shortcut": "Windows key + E",
+        "properties": "Essential"
+    },
+    {
+        "Action": "Open Action center.",
+        "Keyboard shortcut": "Windows key + A",
+        "properties": "Essential"
+    },
+    {
+        "Action": "Display and hide the desktop.",
+        "Keyboard shortcut": "Windows key + D",
+        "properties": "Essential"
+    },
+    {
+        "Action": "Lock device.",
+        "Keyboard shortcut": "Windows key + L",
+        "properties": "Essential"
+    },
+    {
+        "Action": "Open Clipboard bin.",
+        "Keyboard shortcut": "Windows key + V",
+        "properties": "Essential"
+    },
+    {
+        "Action": "Open emoji panel.",
+        "Keyboard shortcut": "Windows key + Period (.) or semicolon (;)",
+        "properties": "Essential"
+    },
+    {
+        "Action": "Capture full screenshot in the \"Screenshots\" folder.",
+        "Keyboard shortcut": "Windows key + PrtScn",
+        "properties": "Essential"
+    },
+    {
+        "Action": "Capture part of the screen with Snip & Sketch.",
+        "Keyboard shortcut": "Windows key + Shift + S",
+        "properties": "Essential"
+    },
+    {
+        "Action": "Snap app or window left.",
+        "Keyboard shortcut": "Windows key + Left arrow key",
+        "properties": "Essential"
+    },
+    {
+        "Action": "Snap app or window right.",
+        "Keyboard shortcut": "Windows key + Right arrow key",
+        "properties": "Essential"
+    }
+]

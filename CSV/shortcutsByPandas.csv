@@ -1,0 +1,26 @@
+properties,Keyboard shortcut,Action
+Essential,Ctrl + A,Select all content.
+Essential,Ctrl + C (or Ctrl + Insert),Copy selected items to clipboard.
+Essential,Ctrl + X,Cut selected items to clipboard.
+Essential,Ctrl + V (or Shift + Insert),Paste content from clipboard.
+Essential,Ctrl + Z,"Undo an action, including undelete files (limited)."
+Essential,Ctrl + Y,Redo an action.
+Essential,Ctrl + Shift + N,Create new folder on desktop or File Explorer.
+Essential,Alt + F4,"Close active window. (If no active window is present, then a shutdown box appears.)"
+Essential,Ctrl + D (Del),Delete selected item to the Recycle Bin.
+Essential,Shift + Delete,"Delete the selected item permanently, skipping Recycle Bin."
+Essential,F2,Rename selected item.
+Essential,ESC,Close current task.
+Essential,Alt + Tab,Switch between open apps.
+Essential,PrtScn,Take a screenshot and stores it in the clipboard.
+Essential,Windows key + I,Open Settings app.
+Essential,Windows key + E,Open File Explorer.
+Essential,Windows key + A,Open Action center.
+Essential,Windows key + D,Display and hide the desktop.
+Essential,Windows key + L,Lock device.
+Essential,Windows key + V,Open Clipboard bin.
+Essential,Windows key + Period (.) or semicolon (;),Open emoji panel.
+Essential,Windows key + PrtScn,"Capture full screenshot in the ""Screenshots"" folder."
+Essential,Windows key + Shift + S,Capture part of the screen with Snip & Sketch.
+Essential,Windows key + Left arrow key,Snap app or window left.
+Essential,Windows key + Right arrow key,Snap app or window right.
